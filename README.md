@@ -1,4 +1,4 @@
 # git-tag
 This repository is being used to understand the git-tagging.
 
-## v1.0,0
+## v2.0,0
